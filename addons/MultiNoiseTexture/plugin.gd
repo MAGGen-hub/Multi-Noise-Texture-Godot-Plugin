@@ -21,19 +21,6 @@
 # SOFTWARE.
 #endregion
 
-#region UsedResources
-# That project was inspired by: https://godotengine.org/asset-library/asset/1095
-#
-# Resources that used to create that plugin
-# Code examples andexplanations by Alexis:
-#	https://www.alexisgiard.com/icosahedron-sphere/
-#	https://www.alexisgiard.com/icosahedron-sphere-remastered/
-#	https://github.com/alexisgea/sphere_generator/blob/master/Assets/SphereGenerator/Scripts/Builders/SphereBuilder.cs
-# Explanation how to UV map Icosphere by Michael Thygesen:
-#	https://mft-dev.dk/uv-mapping-sphere/
-# Code examples by kaiware007:
-#	https://github.com/kaiware007/IcoSphereCreator/blob/master/Assets/IcoSphereCreator/IcoSphereCreator.cs
-#endregion
 @tool
 extends EditorPlugin
 func _enter_tree() -> void:
