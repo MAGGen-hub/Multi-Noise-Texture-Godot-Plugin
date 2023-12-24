@@ -1,0 +1,6 @@
+<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+<path d="M 2 1 C 1.448 1 1 1.448 1 2 L 1 14 C 1 14.552 1.448 15 2 15 L 14 15 C 14.552 15 15 14.552 15 14 L 15 2 C 15 1.448 14.552 1 14 1 L 2 1 Z M 3 3 L 13 3 L 13 11 L 3 11 L 3 3 Z" fill="#e0e0e0"></path>
+<path d="M 8 8 L 6 8 L 6 6 L 4 6 L 4 10 L 8 10 L 8 8 Z" style="fill: rgb(255, 122, 122);"></path>
+<path d="M 6 4 L 6 6 L 8 6 L 8 4 L 6 4 Z M 8 6 L 8 8 L 10 8 L 10 6 L 8 6 Z" style="fill: rgb(122, 122, 255);"></path>
+<path d="M 10 4 L 10 10 L 12 10 L 12 4 L 10 4 Z" style="fill: rgb(122, 255, 122);"></path>
+</svg>

@@ -1,0 +1,17 @@
+<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+<path d="M 1 14 C 1 14.552 1.448 15 2 15 L 11.5 15 C 11.765 15 12.02 14.895 12.207 14.707 L 14.707 12.207 C 14.895 12.02 15 11.765 15 11.5 L 15 2 C 15 1.448 14.552 1 14 1 L 4.5 1 C 4.235 1 3.98 1.105 3.793 1.293 L 1.293 3.793 C 1.105 3.98 1 4.235 1 4.5 L 1 14 Z M 2.25 5 L 11 5 L 11 12 L 2.25 12 L 2.25 5 Z M 12.25 11.25 L 12.25 4.75 L 14 3 L 14 9.5 L 12.25 11.25 Z M 11.25 3.75 L 3 3.75 L 4.75 2 L 13 2 L 11.25 3.75 Z" fill="#e0e0e0"></path>
+
+<path d="M 2.984 8.991 L 2.976 10.994 L 4.991 11.003 L 5.001 9 L 2.984 8.991 Z" style="fill: rgb(173, 173, 173);"></path>
+<path d="M 2.999 7 L 2.984 8.991 L 5 9 L 5 7 L 2.999 7 Z" style="fill: rgb(238, 171, 171);"></path>
+<path d="M 4.999 9 L 4.99 11.003 L 7 10.999 L 7 9 L 4.999 9 Z" style="fill: rgb(171, 234, 166);"></path>
+<path d="M 7 7 L 7 9 L 9 9 L 9 6.999 L 7 7 Z" style="fill: rgb(186, 174, 236);"></path>
+
+
+<path d="M 3 7 L 5 7 L 6.25 5.75 L 4.25 5.75 L 3 7 Z" fill-opacity=".4" style="fill: rgb(249, 0, 0);"></path>
+<path d="M 7 7 L 9 7 L 10.25 5.75 L 8 5.75 L 7 7 Z" fill-opacity=".4" style="fill: rgb(0, 0, 255);"></path>
+<path d="M 5 9 L 7 9 L 7 7.75 L 6.25 7.75 L 5 9 Z" fill-opacity=".4" style="fill: rgb(0, 255, 0);"></path>
+
+<path d="M 5 7 L 5 9 L 6.25 7.75 L 6.25 5.75 L 5 7 Z" fill-opacity=".2" style="fill: rgb(255, 0, 0);"></path>
+<path d="M 9 9 L 9 7 L 10.25 5.75 L 10.25 7.75 L 9 9 Z" fill-opacity=".2" style="fill: rgb(0, 0, 255);"></path>
+<path d="M 7 9 L 7 11 L 8.25 9.75 L 8.25 9 L 7 9 Z" fill-opacity=".2" style="fill: rgb(0, 255, 0);"></path>
+</svg>
